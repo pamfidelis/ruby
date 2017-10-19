@@ -1,0 +1,6 @@
+node1
+7
+{node1,open,1}
+{node1,close,2}
+{node3,open,1}
+{node1,open,2}
